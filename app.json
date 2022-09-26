@@ -70,12 +70,12 @@
                 "LOGO": {
 			"description": "Add any emoji here.",
 			"required": true,
-			"value": "https://telegra.ph/file/c9fed4e07198068a2ce53.jpg"
+			"value": "https://user-images.githubusercontent.com/100421286/191436376-2a5e6281-d24e-4c9b-b99b-673bbc72b445.jpeg"
 		},
                "VIDEOURL": {
 			"description": "Add a video url for gif menu and video menu",
 			"required": true,
-                        "value": "https://telegra.ph/file/c9fed4e07198068a2ce53.jpg"
+                        "value": "https://user-images.githubusercontent.com/100421286/191436376-2a5e6281-d24e-4c9b-b99b-673bbc72b445.jpeg"
 				
 		}
 	},
